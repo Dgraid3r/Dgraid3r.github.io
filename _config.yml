@@ -22,7 +22,7 @@ title: "Hi there, I'm Jesse Bao"
 email: "jbbao052@gmail.com"
 description: "I'm passionate about solving problems with code and data"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "dgraid3r.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  "dgraid3r"
 
