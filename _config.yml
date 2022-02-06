@@ -27,8 +27,8 @@ url: "dgraid3r.github.io" # the base hostname & protocol for your site, e.g. htt
 github_username:  "dgraid3r"
 
 # Build settings
-#remote_theme: pmarsceill/just-the-docs
-theme: "just-the-docs"
+remote_theme: pmarsceill/just-the-docs
+#theme: "just-the-docs"
 plugins:
   - jekyll-feed
 
